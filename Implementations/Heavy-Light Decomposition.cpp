@@ -5,7 +5,7 @@
 using namespace std;
 using namespace __gnu_pbds;
 
-using ll = int;
+using ll = long long;
 using ull = unsigned long long;
 using ld = long double;
 template<class T>
